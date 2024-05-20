@@ -150,7 +150,10 @@ export default function Home(){
                             <div className="text-center my-5">
                                 <h2 className="display-5 fw-bolder"><span className="text-gradient d-inline">About Me</span></h2>
                                 <p className="lead fw-light mb-4">My name is Vikas Passi and I help brands grow.</p>
-                                <p className="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit dolorum itaque qui unde quisquam consequatur autem. Eveniet quasi nobis aliquid cumque officiis sed rem iure ipsa! Praesentium ratione atque dolorem?</p>
+                                <p className="text-muted">" MERN stack developer with a passion for crafting robust and scalable web applications. Proficient in building full-stack solutions from conception to deployment, leveraging MongoDB for database management, Express.js and Node.js for server-side development, and React.js for dynamic user interfaces. Skilled in RESTful API design . Committed to staying updated with emerging technologies and best practices in web development. A collaborative team player with a track record of delivering high-quality projects on time."
+
+
+</p>
                                 <div className="d-flex justify-content-center fs-2 gap-4">
                                     <a className="text-gradient" href="#!"><i className="bi bi-whatsapp"></i></a>
                                     <a className="text-gradient" href="#!"><i className="bi bi-linkedin"></i></a>
